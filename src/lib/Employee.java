@@ -95,4 +95,4 @@ public class Employee {
         // Memanggil metode calculateTax dengan objek taxInfo sebagai parameter
         return TaxFunction.calculateTax(taxInfo);
     }
-}
+} 
